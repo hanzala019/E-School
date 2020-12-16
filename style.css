@@ -22,6 +22,10 @@ nav img {
   
     margin-left: 30%;
 }
+#move-left {
+  
+    margin-right: 30%;
+}
 
 #move-up {
     margin-top: 12%;
@@ -98,4 +102,10 @@ h1 span {
 .card-footer {
     border: none;
     background-color: transparent;
+}
+
+.carousel-item p {
+                    /* margin-left: 50px; */
+                    padding-left: 150px;
+                    font-size: 20px;
 }
